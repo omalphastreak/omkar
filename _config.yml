@@ -14,13 +14,13 @@ collections:
 
 
 # Setup
-title:            Sravan Patchala
+title:            Omkar Masurkar
 tagline:          ''
-description:      'My Digital Footprint'
-url:              https://sravps7.github.io/
+description:      'Hello World!'
+url:              https://omkarm.github.io/
 baseurl:          /
 author:
-  name:           'Sravan Patchala'
+  name:           'Omkar Masurkar'
   url:            
 
 # paginate:         5
