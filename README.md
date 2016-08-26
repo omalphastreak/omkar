@@ -1,3 +1,3 @@
-# sravps7.github.io
+# omalphastreak.github.io
 
 This is my personal website!
