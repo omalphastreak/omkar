@@ -9,49 +9,44 @@ This is my academics page having details of my education!
 
 ----
 
-I have done my schooling in quite some schools in Mumbai, Pune (located in India) and also in Manchester and Brighton (located in England).
+I completed my High School Education from VPM's Vidya Mandir, Dahisar, Mumbai prior to which I was a student at Sardar Vallabhai Patel Internation High School in Dahisar, Mumbai.
 
-I finished my schooling in Pawar Public School, Bhandup, Mumbai.
+I have lived 19 years of my life in this wonderful city of Mumbai (which apparently never sleeps).
 
-I then completed my Junior College at the Pace Junior Science College, Powai, Mumbai.
+I then completed my Junior College at the Swami Ramkrishna Paramhans Junior College of Science , Govandi, Mumbai. 
 
 ----
 
-This was followed by me getting a rank of 433 out of 150,000 students in the prestigious Joint Entrance Exam (JEE) Advanced for Engineering and a rank of 639 out of around 1,400,000 students in JEE Mains. I was duly admitted into the Electrical Engineering department at the Indian Institute of Technology, Bombay (IIT B). 
+This was followed by me getting a rank of 1565 out of 150,000 students in the prestigious Joint Entrance Exam (JEE) Advanced for Engineering and a rank of 1214 out of around 1,300,000 students in JEE Mains. I was duly admitted into the Department of Energy Science and Engineering at the Indian Institute of Technology, Bombay (IIT B). 
 
-These are the notable courses that I have done in my two years at IIT Bombay. 
+I am pursuing a Dual Degree (BTech + MTech) which includes a Bachelors in Energy Science and Engineering and Masters in Energy Systems Engineering. 
+
+My research interests primarily include Energy Storage and Conversion systems, Metal Ion Batteries, Hybrid Electric Vehicles, Battery Management Systems and Electronics Reliablity. 
+
+### Energy Storage and Conversion 
+
+* Electrochemistry 
+* Electrochemical Energy Storage
+* Electrochemical Material Science 
+* Hydrogen Energy
+* Material Science for Energy Applications
+* Mechanics of Materials
+* Physics of Nanoelectronic Devices - 1
 
 ### Electrical Engineering
 
-* Electrical Devices and Circuits
-* Network Theory
-* Analog Circuits
-* Digital Systems
-* Signals and Systems
-* Electrical Machines and Power Electronics
-* Communication Systems
-* Electromagnetic waves
-* Microprocessors
+* Basic Electrical and Electronics (Course + Lab)
+* Electrical Machines
+* Power Electronics (Course + Lab) 
+* Power Generation and System Planning
+* Electrical Energy Systems
+* Control and Instrumentation
 
 ### Mathematics
 
-* Calculus
-* Linear Algebra
-* Matrix Computations
-* Complex Analysis
+* Stochastic Processes
+* Introduction to Numerical Analysis
 * Ordinary Differential Equations
-* Partial Differential Equations
-* Optimisation Models
-* Data Analysis and Interpretation
-* Probability and Random Processes
+* Linear Algebra
 
-### Other Courses
-
-* Fundamentals of Digital Image Processing
-* Machine Learning
-* Game Theory
-* Economics
-* Professional Ethics
-* Philosophy
-* Computer Programming and Utilisation
-* Engineering Graphics and Drawing
+###Humanities 
